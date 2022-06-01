@@ -23,5 +23,5 @@ git clone https://github.com/Junker/stumpwm-window-switch window-switch
 
 ### Parameters
 
-- **window-switch:\*timeout\*** - timeout in secs after which window will be
-added as last (default: 1)
+- **window-switch:\*timeout\*** - timeout in secs after which the window will be
+added as last one (default: 1)
