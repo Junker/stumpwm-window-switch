@@ -17,8 +17,8 @@ git clone https://github.com/Junker/stumpwm-window-switch window-switch
 ## Usage
 
 ```lisp
-  (define-key *top-map* (kbd "M-Tab") select-previous-window)
-  (define-key *top-map* (kbd "s-Tab") windowlist-last)
+  (define-key *top-map* (kbd "M-Tab") "select-previous-window")
+  (define-key *top-map* (kbd "s-Tab") "windowlist-last")
 ```
 
 ### Parameters
